@@ -1,2 +1,2 @@
-# School-management-
-Is this school management system website
+# School-management
+ Its school management system website
